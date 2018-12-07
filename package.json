@@ -1,0 +1,19 @@
+{
+  "name": "@5x9/detect",
+  "version": "0.1.0",
+  "description": "Simple library for detecting adblockers",
+  "main": "fivenine.detect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burtcorp/5x9-detect.js.git"
+  },
+  "author": "joel@burtcorp.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burtcorp/5x9-detect.js/issues"
+  },
+  "homepage": "https://github.com/burtcorp/5x9-detect.js#readme"
+}
